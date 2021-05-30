@@ -1,0 +1,9 @@
+$color-teal: #17a2bb;
+$color-white: #fff;
+
+#reserveModal {
+  .modal-header {
+    background-color: $color-teal;
+    color:$color-white;
+  }
+}
